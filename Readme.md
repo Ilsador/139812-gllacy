@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Kamil Yusupov](https://up.htmlacademy.ru/htmlcss/23/user/139812).
-* Наставник: `Неизвестно`.
+* Наставник: [Влад Башилов](https://up.htmlacademy.ru/htmlcss/23/user/167603).
 
 ---
 
